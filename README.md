@@ -1,11 +1,17 @@
-# School-library
-A simple console app built with Ruby using principles of Object Oriented Programming.
+### School Library 📚
 
-## Built With
+A simple console application built with Ruby, utilizing Object-Oriented Programming principles to manage a school library. This app allows users to keep track of books, manage inventory, and handle basic library operations.
 
-- **Languages**
+### Features:
+- **Book Management:** Add, update, and remove books from the library catalog.
+- **Inventory Tracking:** Monitor the availability of books and manage borrowing and returns.
+- **Object-Oriented Design:** Uses OOP principles to structure the application for better scalability and maintainability.
 
-  - *Ruby*
+### Built With:
+- Ruby
+- Object-Oriented Programming principles
+
+---
 
 ### Prerequisites
 
